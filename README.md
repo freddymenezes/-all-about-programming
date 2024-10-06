@@ -1,2 +1,2 @@
-#  all about programming
- my first repositry
+#  All About Programming
+ My first repositry
